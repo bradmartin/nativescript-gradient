@@ -60,7 +60,7 @@ Attribute to set the starting color of the gradient.
 
 Attribute to set the ending color of the gradient.
 
-**orientation = (string)** - *optional* --- Default is Top to bottom direction.
+**orientation - (string)** - *optional* --- Default is Top to bottom direction.
 
 #### Android Orientation Options
  These values determine the starting and end of the gradient.
