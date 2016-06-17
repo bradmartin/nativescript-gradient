@@ -1,5 +1,5 @@
-[![npm](https://img.shields.io/npm/v/nativescript-drawingpad.svg)](https://www.npmjs.com/package/nativescript-drawingpad)
-[![npm](https://img.shields.io/npm/dt/nativescript-drawingpad.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-drawingpad)
+[![npm](https://img.shields.io/npm/v/nativescript-gradient.svg)](https://www.npmjs.com/package/nativescript-gradient)
+[![npm](https://img.shields.io/npm/dt/nativescript-gradient.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-gradient)
 
 # NativeScript-Gradient
 NativeScript plugin to provide gradient layouts. Gradient support is available in NativeScript using
