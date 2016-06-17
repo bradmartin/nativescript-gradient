@@ -1,0 +1,19 @@
+<Page 
+  xmlns="http://schemas.nativescript.org/tns.xsd" 
+  xmlns:Gradient="nativescript-gradient" loaded="pageLoaded">
+  <ActionBar title="Gradients" />
+  <StackLayout height="100%">
+    <Gradient:Gradient height="50%" startColor="#DA22FF" endColor="#9733EE" orientation="LEFT_RIGHT" id="gradient">
+      <StackLayout>
+        <Label text="Left to Right" class="info" textWrap="true" />
+        <Image src="~/images/wonka.jpg" stretch="aspectFit" />
+      </StackLayout>
+    </Gradient:Gradient>
+    <Gradient:Gradient height="50%" startColor="#c2e59c" endColor="#64b3f4" orientation="TL_BR">
+      <StackLayout>
+        <Label text="Top Left to Bottom Right" class="info" textWrap="true" />
+        <Button text="WHATEVER YOU LIKE" tap="gotoMain" height="50" />
+      </StackLayout>
+    </Gradient:Gradient>
+  </StackLayout>
+</Page>

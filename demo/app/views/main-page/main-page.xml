@@ -1,0 +1,13 @@
+<Page 
+    xmlns="http://schemas.nativescript.org/tns.xsd" 
+    xmlns:Gradient="nativescript-gradient" loaded="pageLoaded" actionBarHidden="true">
+    <ActionBar title="Gradients" />
+    <Gradient:Gradient startColor="#267871" endColor="#136a8a" orientation="TOP_BOTTOM">
+        <StackLayout width="100%">
+            <Label text="Welcome to Gradient Land" class="title" textWrap="true" />
+            <TextView hint="Username..." text="{{  }}" editable="true" />
+            <TextField hint="Password..." text="{{  }}" secure="true" />
+            <Button text="Sign In" tap="gotoSub" class="button" />
+        </StackLayout>
+    </Gradient:Gradient>
+</Page>

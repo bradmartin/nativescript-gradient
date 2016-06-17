@@ -1,0 +1,12 @@
+//default elements
+android {
+    productFlavors {
+        "nativescriptgradient" {
+            dimension "nativescriptgradient"
+        }
+    }
+}
+
+dependencies {
+	compile 'net.colindodd:gradientlayout:1.0'
+}

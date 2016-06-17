@@ -1,0 +1,38 @@
+﻿.title {
+  color: #f1f1f1;
+  font-size: 28;
+  horizontal-align: center;
+  padding:15;
+  margin-top: 20;
+}
+
+.info {
+  color: #f1f1f1;
+  font-size: 20;
+  padding:20;
+}
+
+ActionBar {
+  color: #fff;
+  background-color: #333;
+}
+
+TextField {
+  vertical-align: center;
+  padding: 25;
+  color: #fff;
+}
+
+TextView {
+  vertical-align: center;
+  padding: 25;
+  color: #fff;
+}
+
+.button {
+  color: #fff;
+  background-color: transparent;
+  border-width: 0.1;
+  font-size: 20;
+  margin-top: 15;
+}
