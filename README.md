@@ -22,7 +22,7 @@ Android | iOS
 ## Installation
 From your command prompt/termial go to your app's root folder and execute:
 
-`npm install nativescript-gradient`
+`tns plugin add nativescript-gradient`
 
 ## Usage
 #### XML:
