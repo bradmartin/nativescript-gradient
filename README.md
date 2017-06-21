@@ -1,7 +1,7 @@
 [![npm](https://img.shields.io/npm/v/nativescript-gradient.svg)](https://www.npmjs.com/package/nativescript-gradient)
 [![npm](https://img.shields.io/npm/dt/nativescript-gradient.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-gradient)
 
-# DEPRECATED: a cross platform, no dependency plugin is avaialble [https://github.com/EddyVerbruggen/nativescript-gradient](here)
+# DEPRECATED: a cross platform, no dependency plugin is available [here](https://github.com/EddyVerbruggen/nativescript-gradient)
 
 # NativeScript-Gradient
 NativeScript plugin to provide gradient layouts. Gradient support is available in NativeScript using
